@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "version": "4.1.0",
   "name": "@jmy48/lightweight-charts",
   "author": "TradingView, Inc.",
